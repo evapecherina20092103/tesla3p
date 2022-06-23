@@ -90,6 +90,8 @@ li p{
 }
 main{
     justify-content: center;
+    margin-left: 100px;
+    margin-right:100px;
 }
 .panel{
     float: left;
